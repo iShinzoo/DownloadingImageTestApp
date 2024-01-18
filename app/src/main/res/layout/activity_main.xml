@@ -16,6 +16,14 @@
         android:layout_width="300dp"
         android:layout_height="300dp"/>
 
+    <EditText
+        android:id="@+id/edt"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:hint="Enter Link"
+        android:textColor="@color/black"
+        android:textColorHint="#647D87"/>
+
     <Button
         android:id="@+id/btnImage"
         android:layout_width="wrap_content"
